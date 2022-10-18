@@ -1,5 +1,9 @@
 red
 green
 john
+<<<<<<< HEAD
 yellow
 white
+=======
+michael
+>>>>>>> his-branch
